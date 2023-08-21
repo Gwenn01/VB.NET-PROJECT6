@@ -1,0 +1,17 @@
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\TicTacToeGame\TicTacToeGame\bin\Debug\net6.0-windows\TicTacToeGame.exe
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\TicTacToeGame\TicTacToeGame\bin\Debug\net6.0-windows\TicTacToeGame.deps.json
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\TicTacToeGame\TicTacToeGame\bin\Debug\net6.0-windows\TicTacToeGame.runtimeconfig.json
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\TicTacToeGame\TicTacToeGame\bin\Debug\net6.0-windows\TicTacToeGame.dll
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\TicTacToeGame\TicTacToeGame\bin\Debug\net6.0-windows\TicTacToeGame.pdb
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\TicTacToeGame\TicTacToeGame\obj\Debug\net6.0-windows\TicTacToeGame.vbproj.AssemblyReference.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\TicTacToeGame\TicTacToeGame\obj\Debug\net6.0-windows\TicTacToeGame.Form1.resources
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\TicTacToeGame\TicTacToeGame\obj\Debug\net6.0-windows\TicTacToeGame.vbproj.GenerateResource.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\TicTacToeGame\TicTacToeGame\obj\Debug\net6.0-windows\TicTacToeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\TicTacToeGame\TicTacToeGame\obj\Debug\net6.0-windows\TicTacToeGame.AssemblyInfoInputs.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\TicTacToeGame\TicTacToeGame\obj\Debug\net6.0-windows\TicTacToeGame.AssemblyInfo.vb
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\TicTacToeGame\TicTacToeGame\obj\Debug\net6.0-windows\TicTacToeGame.vbproj.CoreCompileInputs.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\TicTacToeGame\TicTacToeGame\obj\Debug\net6.0-windows\TicTacToeGame.dll
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\TicTacToeGame\TicTacToeGame\obj\Debug\net6.0-windows\refint\TicTacToeGame.dll
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\TicTacToeGame\TicTacToeGame\obj\Debug\net6.0-windows\TicTacToeGame.pdb
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\TicTacToeGame\TicTacToeGame\obj\Debug\net6.0-windows\TicTacToeGame.genruntimeconfig.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\TicTacToeGame\TicTacToeGame\obj\Debug\net6.0-windows\ref\TicTacToeGame.dll
