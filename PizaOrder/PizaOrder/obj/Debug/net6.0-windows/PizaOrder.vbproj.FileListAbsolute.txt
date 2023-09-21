@@ -1,0 +1,16 @@
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\PizaOrder\PizaOrder\bin\Debug\net6.0-windows\PizaOrder.exe
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\PizaOrder\PizaOrder\bin\Debug\net6.0-windows\PizaOrder.deps.json
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\PizaOrder\PizaOrder\bin\Debug\net6.0-windows\PizaOrder.runtimeconfig.json
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\PizaOrder\PizaOrder\bin\Debug\net6.0-windows\PizaOrder.dll
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\PizaOrder\PizaOrder\bin\Debug\net6.0-windows\PizaOrder.pdb
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\PizaOrder\PizaOrder\obj\Debug\net6.0-windows\PizaOrder.Form1.resources
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\PizaOrder\PizaOrder\obj\Debug\net6.0-windows\PizaOrder.vbproj.GenerateResource.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\PizaOrder\PizaOrder\obj\Debug\net6.0-windows\PizaOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\PizaOrder\PizaOrder\obj\Debug\net6.0-windows\PizaOrder.AssemblyInfoInputs.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\PizaOrder\PizaOrder\obj\Debug\net6.0-windows\PizaOrder.AssemblyInfo.vb
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\PizaOrder\PizaOrder\obj\Debug\net6.0-windows\PizaOrder.vbproj.CoreCompileInputs.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\PizaOrder\PizaOrder\obj\Debug\net6.0-windows\PizaOrder.dll
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\PizaOrder\PizaOrder\obj\Debug\net6.0-windows\refint\PizaOrder.dll
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\PizaOrder\PizaOrder\obj\Debug\net6.0-windows\PizaOrder.pdb
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\PizaOrder\PizaOrder\obj\Debug\net6.0-windows\PizaOrder.genruntimeconfig.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\PizaOrder\PizaOrder\obj\Debug\net6.0-windows\ref\PizaOrder.dll
